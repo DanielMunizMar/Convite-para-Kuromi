@@ -1,8 +1,12 @@
 <h1>🎀 Convite para Kuromi 🎀</h1>
 
-Um aplicativo móvel interativo e temático desenvolvido em **React Native** e **TypeScript**, inspirado no universo da personagem Kuromi (Sanrio). O app foi estruturado para exibir uma interface dinâmica de convite, como se você pudesse convidar a própria Kuromi para uma festa.
+Um aplicativo móvel interativo e temático desenvolvido em **React Native** e **TypeScript**, inspirado no universo da personagem Kuromi, do universo da Hello Kitty. O app foi estruturado para exibir uma interface dinâmica de convite, como se você pudesse convidar a própria Kuromi para uma festa.
 
 ---
+
+### 🎓 Proposta do Projeto
+O projeto foi desenvolvido como uma das atividades do curso "Formação React Native Developer" da DIO - Digital Innovation One. Do qual a ideia inicial era ser um aplicativo do Batman, como um BatSinal, para alertar o Batman sobre algum ato criminoso na cidade de Gotham. Contudo, a ideia foi transformada em um aplicativo de convite de festas para a Kuromi.
+
 
 ## 🚀 Tecnologias Utilizadas
 
