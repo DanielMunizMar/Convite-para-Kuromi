@@ -31,13 +31,13 @@ export default function Home() {
         if (hasText) {
             Alert.alert(
                 'Completo',
-                'Seu convite foi envido'
+                'Seu convite foi enviado.'
             );
             mostraForm()
         } else {
             Alert.alert(
                 'Incompleto',
-                'Preencha todos os dados antes de enviar o convite'
+                'Preencha todos os dados antes de enviar o convite.'
             );
 
         }
